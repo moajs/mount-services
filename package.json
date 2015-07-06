@@ -1,6 +1,6 @@
 {
   "name": "mount-services",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "moajs mount-services",
   "main": "index.js",
   "scripts": {
