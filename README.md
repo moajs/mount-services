@@ -11,6 +11,8 @@
 ## Usages
 
 ```
-var $services = require('mount-services');
+var $services = require('mount-services')(__dirname);
 console.log($services);
+
+var users_service = require('mount-services')(__dirname).users_service;
 ```
